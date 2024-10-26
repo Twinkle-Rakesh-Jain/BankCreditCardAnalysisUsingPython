@@ -3,6 +3,9 @@
 ## Project Description
 This project leverages two interrelated datasets—Customer Details and Credit Card Details—to analyze bank credit card usage patterns and derive insights into customer behavior, financial performance, and the influence of specific factors on key metrics. Visualizations created using Python libraries, including Pandas, Matplotlib, and Seaborn, reveal trends in card usage, spending patterns, and revenue generation, offering actionable insights into customer segmentation and engagement strategies.
 
+![image](https://github.com/user-attachments/assets/491e4a04-d4d9-45f3-a294-639d0aa3af96)
+
+
 ## Project Execution
 ### 1. Data Import and Exploration
 a. Imported and explored two datasets—cust (Customer Details) and cc (Credit Card Details)—to understand the features available for analysis.
