@@ -35,6 +35,9 @@ f. Correlation Matrix: Created a heatmap to examine correlations between numeric
 ### 4.Visualization Summary
 A total of 14 key visualizations were created to explore and present insights on customer demographics, transaction trends, revenue distribution, and credit utilization.
 
+<img width="1026" alt="Screen Shot 2024-10-26 at 4 07 21 PM" src="https://github.com/user-attachments/assets/8e740db6-d2dc-4504-82fe-17a6ce8e0b06">
+
+
 ## Project Conclusion
 This project offers a comprehensive analysis of bank credit card customers and their financial behaviors through various Python-based visualizations. Key insights include:
 
